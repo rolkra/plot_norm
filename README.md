@@ -1,5 +1,5 @@
 # plot_norm
-Vizualisation of one or multiple normal-distributions
+Vizualisation of one or multiple normal-distributions (plot of the distribution, shaded areas, mean, sd, test-value)
 
 ```r
 # standard normal distribution (mean = 0, sd = 1)
