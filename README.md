@@ -1,6 +1,7 @@
 # plot_norm
 Vizualisation of one or multiple normal-distributions (plot of the distribution, shaded areas, mean, sd, test-value)
 
+Examples:
 ```r
 # standard normal distribution (mean = 0, sd = 1)
 plot_norm()
